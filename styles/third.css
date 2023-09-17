@@ -1,0 +1,16 @@
+.third-contain{
+    width:980px;
+    height:511px;
+}
+.first{
+    width: 200px;
+    height:511px;
+    background-color:dodgerblue;
+    float:left
+}
+.second{
+    width:780px;
+    height:511px;
+    background-color:skyblue;
+    float: left;
+}

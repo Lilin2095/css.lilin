@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.five-contain{
+    width:980px;
+    height:511px;
+}
+.first{
+    width: 980px;
+    height:80px;
+    background-color:dodgerblue;
+}
+.second{
+    width:980px;
+    height:60px;
+    background-color:rgb(135, 177, 250);
+}
+.third{
+    width:250px;
+    height:311px;
+    float: left;
+    background-color:cornflowerblue;
+}
+.forth{
+    width:480px;
+    height:311px;
+    background-color:skyblue;
+    float: left;
+}
+.five{
+    width:250px;
+    height:311px;
+    float: left;
+    background-color:cornflowerblue;
+}
+.botton{
+    width:980px;
+    height:60px;
+    background-color:dodgerblue;
+    clear:left;
+}

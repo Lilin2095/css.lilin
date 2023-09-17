@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.four-contain{
+    width:980px;
+    height:511px;
+}
+.first{
+    width:980px;
+    height:70px;
+    background-color:dodgerblue;
+}
+.second{
+   width:200px;
+   height:401px;
+   background-color: rgb(100, 171, 237);
+   float: left;
+}
+.third{
+   width:780px;
+   height:401px;
+   background-color:skyblue;
+   float: left;
+}
+.forth{
+    width:980px;
+    height:40px;
+    background-color:dodgerblue;
+    clear:left;
+}

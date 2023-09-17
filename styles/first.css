@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-contain{
+    width:980px;
+    height:511px;
+    background-color:skyblue;
+}

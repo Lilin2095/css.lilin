@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.second-contain{
+    width:980px;
+    height:511px;
+}
+.head{
+    width:980px;
+    height:55px;
+    background-color:dodgerblue;
+}
+.middle{
+    width:980px;
+    height:401px;
+    background-color:skyblue; 
+}
+.botton{
+    width:980px;
+    height:55px;
+    background-color:dodgerblue;  
+}
